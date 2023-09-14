@@ -12,7 +12,7 @@
 
 
 📚 Home Work
--- Practice with LeetCode puzzles from 30 Days of JavaScript 
+-- Practice with LeetCode puzzles from 30 Days of JavaScript learning plan
 -- Push all solutions to GitHub
 -- Read the article about daily coding routine
 https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-routine
@@ -24,6 +24,7 @@ https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-ro
 -- Create a repository for education notes
 -- Codewars
 -- TicTacToe
+-- Create a pull request 
 
 
 📓 Future Home Work:
