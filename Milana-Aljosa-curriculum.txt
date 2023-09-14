@@ -1,0 +1,31 @@
+
+
+
+
+🔥 2023-09-13 
+-- Creating a LeetCode account
+-- Connecting GitHub account to a LeetCode
+-- Solving 1 JavaScript puzzle
+-- Enrolling to 30 Days of JavaScript 
+
+
+
+
+📚 Home Work
+-- Practice with LeetCode puzzles from 30 Days of JavaScript 
+-- Push all solutions to GitHub
+-- Read the article about daily coding routine
+https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-routine
+
+
+
+🤘 To Do: 
+-- Fix Milana's contribution settings
+-- Create a repository for education notes
+-- Codewars
+-- TicTacToe
+
+
+📓 Future Home Work:
+-- Read about browser developer tools: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
+-- Watch videos on how to learn
