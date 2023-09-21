@@ -9,26 +9,36 @@
 -- Enrolling to 30 Days of JavaScript 
 
 
+🔥 2023-09-21
+-- Introduction to branching
+-- Fix Milana's contribution settings
+-- Create a repository for education notes
+
+
+
+
+
+
+📖 Completed Home Work
+-- Practice with LeetCode puzzles from 30 Days of JavaScript learning plan
+-- Push all solutions to GitHub
+
 
 
 📚 Home Work
--- Practice with LeetCode puzzles from 30 Days of JavaScript learning plan
--- Push all solutions to GitHub
 -- Read the article about daily coding routine
 https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-routine
+-- Practice with LeetCode puzzles from 30 Days of JavaScript learning plan
+-- Escape tutorial hell: https://www.youtube.com/watch?v=343EWZS9O88
+-- Fireship how to learn to code: https://www.youtube.com/watch?v=NtfbWkxJTHw
 
 
 
 🤘 To Do: 
--- Fix Milana's contribution settings
--- Create a repository for education notes
+-- Create a pull request 
 -- Codewars
 -- TicTacToe
--- Create a pull request 
 
 
 📓 Future Home Work:
 -- Read about browser developer tools: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
--- Escape tutorial hell: https://www.youtube.com/watch?v=343EWZS9O88
--- Fireship how to learn to code: https://www.youtube.com/watch?v=NtfbWkxJTHw
--- Watch videos on how to learn
