@@ -29,4 +29,6 @@ https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-ro
 
 📓 Future Home Work:
 -- Read about browser developer tools: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
+-- Escape tutorial hell: https://www.youtube.com/watch?v=343EWZS9O88
+-- Fireship how to learn to code: https://www.youtube.com/watch?v=NtfbWkxJTHw
 -- Watch videos on how to learn
