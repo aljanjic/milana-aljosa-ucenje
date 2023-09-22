@@ -42,8 +42,6 @@
 
 
 🤘 To Do: 
-
-
 -- Milana creates a new branch
 -- Milana creates a pull request
 -- Milana merges a branch
