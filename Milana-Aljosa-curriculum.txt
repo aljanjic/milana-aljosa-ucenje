@@ -13,7 +13,8 @@
 -- Introduction to branching
 -- Fix Milana's contribution settings
 -- Create a repository for education notes
-
+-- Showing the precess of Git branching, creating a pull request and merging
+-- Introduction to Codewars
 
 
 
@@ -27,16 +28,25 @@
 
 📚 Home Work
 -- Read the article about daily coding routine
-https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-routine
--- Practice with LeetCode puzzles from 30 Days of JavaScript learning plan
--- Escape tutorial hell: https://www.youtube.com/watch?v=343EWZS9O88
+                    https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-routine
 -- Fireship how to learn to code: https://www.youtube.com/watch?v=NtfbWkxJTHw
+-- Escape tutorial hell: https://www.youtube.com/watch?v=343EWZS9O88
+-- CodeWars Katas:
+                    https://www.codewars.com/kata/5bb0c58f484fcd170700063d
+                    https://www.codewars.com/kata/5949481f86420f59480000e7
+                    https://www.codewars.com/kata/50654ddff44f800200000004
+                    https://www.codewars.com/kata/5715eaedb436cf5606000381
+                    https://www.codewars.com/kata/5168bb5dfe9a00b126000018
+-- Practice with LeetCode puzzles from 30 Days of JavaScript learning plan
 
 
 
 🤘 To Do: 
--- Create a pull request 
--- Codewars
+
+
+-- Milana creates a new branch
+-- Milana creates a pull request
+-- Milana merges a branch
 -- TicTacToe
 
 
