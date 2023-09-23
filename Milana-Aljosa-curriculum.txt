@@ -46,6 +46,7 @@
 -- Milana creates a pull request
 -- Milana merges a branch
 -- TicTacToe
+-- Install Extenstions to Milana's VSC
 
 
 📓 Future Home Work:
