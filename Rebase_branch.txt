@@ -1,0 +1,14 @@
+Follow these steps to rebase a feature branch off of the main branch:
+
+    Open a terminal where you can run git commands.
+    Change to the local repo directory: cd <repo>
+    Fetch the current git info: git fetch
+    Create a local branch from the remote main branch: git switch main
+    Fetch the current git info: git fetch
+    Pull the latest changes (if any) into the local main branch: git pull
+    Switch to the feature branch: git switch <feature_branch>
+    Rebase the feature branch off of the local main branch: git rebase main
+    Edit files to resolve any conflicts.
+    Add files updated due to conflicts to the local staging area: git add <file>
+    Continue the rebase: git rebase --continue
+    Once all conflicts have been resolved, force push the feature branch: git push --force
