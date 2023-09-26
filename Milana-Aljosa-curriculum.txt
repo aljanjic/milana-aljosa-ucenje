@@ -23,10 +23,6 @@
 📖 Completed Home Work
 -- Practice with LeetCode puzzles from 30 Days of JavaScript learning plan
 -- Push all solutions to GitHub
-
-
-
-📚 Home Work
 -- Read the article about daily coding routine
                     https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-routine
 -- Fireship how to learn to code: https://www.youtube.com/watch?v=NtfbWkxJTHw
@@ -38,6 +34,14 @@
                     https://www.codewars.com/kata/5715eaedb436cf5606000381
                     https://www.codewars.com/kata/5168bb5dfe9a00b126000018
 -- Practice with LeetCode puzzles from 30 Days of JavaScript learning plan
+
+
+
+📚 Home Work
+-- Deploy codewars on Github
+-- Run JavaScript locally
+-- Five katas on codewars
+
 
 
 
@@ -53,4 +57,8 @@
 -- Read about browser developer tools: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
 
 
--------- I have no idea what I'm doing
+-------- I know what I'm doing
+
+
+
+
