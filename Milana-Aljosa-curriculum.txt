@@ -51,3 +51,6 @@
 
 📓 Future Home Work:
 -- Read about browser developer tools: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
+
+
+-------- I have no idea what I'm doing
