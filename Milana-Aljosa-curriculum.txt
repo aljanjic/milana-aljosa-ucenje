@@ -41,6 +41,7 @@
 -- Deploy codewars on Github
 -- Run JavaScript locally
 -- Five katas on codewars
+-- Fix three things for opletybyzori website
 
 
 
